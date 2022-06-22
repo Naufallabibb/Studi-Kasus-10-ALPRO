@@ -48,9 +48,9 @@ void final::ipres(){
 
 int main()
 {
-	cout<<"\t\n\tProgram C++ Pointer (Final Parmatika)\n\n\n";
-	final win;
-	win.ipres();
+    cout<<"\t\n\tProgram C++ Pointer (Final Parmatika)\n\n\n";
+    final win;
+    win.ipres();
     
     getch();
 }
